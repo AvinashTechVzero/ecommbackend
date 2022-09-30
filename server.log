@@ -1,0 +1,15 @@
+2022-08-23 16:51:36,631 - server - serve - line:75 - INFO - Started server process [9566]
+2022-08-23 16:51:36,632 - on - startup - line:47 - INFO - Waiting for application startup.
+2022-08-23 16:51:36,632 - on - startup - line:61 - INFO - Application startup complete.
+2022-08-23 16:51:47,502 - deps - get_current_user - line:25 - INFO - test5@mail.com
+2022-08-23 16:54:07,818 - server - shutdown - line:253 - INFO - Shutting down
+2022-08-23 16:54:07,920 - on - shutdown - line:66 - INFO - Waiting for application shutdown.
+2022-08-23 16:54:07,922 - on - shutdown - line:77 - INFO - Application shutdown complete.
+2022-08-23 16:54:07,923 - server - serve - line:85 - INFO - Finished server process [9566]
+2022-08-23 16:54:08,857 - server - serve - line:75 - INFO - Started server process [9674]
+2022-08-23 16:54:08,857 - on - startup - line:47 - INFO - Waiting for application startup.
+2022-08-23 16:54:08,858 - on - startup - line:61 - INFO - Application startup complete.
+2022-08-23 16:55:30,429 - server - shutdown - line:253 - INFO - Shutting down
+2022-08-23 16:55:30,530 - on - shutdown - line:66 - INFO - Waiting for application shutdown.
+2022-08-23 16:55:30,531 - on - shutdown - line:77 - INFO - Application shutdown complete.
+2022-08-23 16:55:30,531 - server - serve - line:85 - INFO - Finished server process [9674]
